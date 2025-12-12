@@ -11,6 +11,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: WorkerNCWL
 
@@ -25,6 +26,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: CommandantNCWL
 
@@ -39,6 +41,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: KommissarNCWL
 
@@ -53,6 +56,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: MVDOfficerNCWL
 
@@ -67,6 +71,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: MVDGruntNCWL
 
@@ -81,6 +86,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: FleetkapitanNCWL
 
@@ -95,6 +101,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: PartisanNCWL
 
@@ -109,6 +116,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: DirectorNCWL
 
@@ -123,6 +131,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: DoctorNCWL
 
@@ -137,6 +146,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: WorkerOverbossNCWL
 
@@ -151,6 +161,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: DockhandNCWL
 
@@ -165,6 +176,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: IndustryTaskmasterNCWL
 
@@ -179,6 +191,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: idcentcom
   - type: PresetIdCard
     job: ArtificerNCWL
 
@@ -192,6 +205,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: RingleaderNCSP
 
@@ -203,6 +217,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: CyberdawnTechNCSP
 
@@ -214,6 +229,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: LieutenantNCSP
 
@@ -225,6 +241,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: InfanteerNCSP
 
@@ -236,6 +253,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: CoordinatorNCSP
 
@@ -247,6 +265,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: RipperdocNCSP
 
@@ -258,6 +277,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: TraumasecNCSP
 
@@ -269,6 +289,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: OperativeNCSP
 
@@ -280,6 +301,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: IntelligenceOfficerNCSP
 
@@ -291,6 +313,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: ForemanNCSP
 
@@ -302,6 +325,7 @@
   - type: Sprite
     layers:
     - state: syndicate
+    - state: default
   - type: PresetIdCard
     job: ShipbreakerNCSP
 
@@ -318,6 +342,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: FreeholderDSM
 
@@ -332,6 +357,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: TemplarDSM
 
@@ -346,6 +372,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: AdvocatusDSM
 
@@ -360,6 +387,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: ArchmaesterDSM
 
@@ -374,6 +402,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: SurgeonDSM
 
@@ -388,6 +417,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: WealthDSM
 
@@ -402,6 +432,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: ForemanDSM
 
@@ -416,6 +447,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: ScribeDSM
 
@@ -430,6 +462,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: LevymanDSM
 
@@ -444,6 +477,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: KnightDSM
 
@@ -458,6 +492,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: RitterDSM
 
@@ -472,6 +507,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: LaborDSM
 
@@ -486,6 +522,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: CourtierDSM
 
@@ -500,6 +537,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: AdjutantDSM
 
@@ -514,6 +552,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: GovernorDSM
 
@@ -527,6 +566,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: botanist
   - type: PresetIdCard
     job: TenderSRM
 
@@ -538,6 +578,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: botanist
   - type: PresetIdCard
     job: AcolyteSRM
 
@@ -549,6 +590,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: botanist
   - type: PresetIdCard
     job: HunterSRM
 
@@ -560,6 +602,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: botanist
   - type: PresetIdCard
     job: OverseerSRM
 
@@ -571,6 +614,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: botanist
   - type: PresetIdCard
     job: MontagneSRM
 
@@ -588,6 +632,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ExecutiveSHI
 
@@ -602,6 +647,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: BoardSHI
 
@@ -616,6 +662,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: CorpsecSHI
 
@@ -630,6 +677,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: HighsecSHI
 
@@ -644,6 +692,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: EmployeeSHI
 
@@ -658,6 +707,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: MedtechSHI
 
@@ -674,6 +724,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: OrdnancemanCMM
 
@@ -688,6 +739,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: MachinistCMM
 
@@ -702,6 +754,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: PhysicianCMM
 
@@ -716,6 +769,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: MinutemanCMM
 
@@ -730,6 +784,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: WatchmasterCMM
 
@@ -744,6 +799,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: DeputyMarshalCMM
 
@@ -758,6 +814,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
   - type: PresetIdCard
     job: MarshalCMM
 
@@ -771,6 +828,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: Antiquarian
 
@@ -815,6 +873,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: senior
 
 #families
 
@@ -826,6 +885,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ProphetTAP
 
@@ -837,6 +897,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: AcolyteTAP
 
@@ -848,6 +909,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: TinkererTAP
 
@@ -859,6 +921,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: TechminerTAP
 
@@ -870,6 +933,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: HangarTechTAP
 
@@ -881,6 +945,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: BeltrunnerTAP
 
@@ -892,6 +957,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: DraugrTAP
 
@@ -903,6 +969,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ServileTAP
 
@@ -916,6 +983,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: KommandantATH
 
@@ -927,6 +995,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: LeutnantATH
 
@@ -938,6 +1007,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: SoldatATH
 
@@ -949,6 +1019,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: KanoneerATH
 
@@ -960,6 +1031,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: SanitatATH
 
@@ -971,6 +1043,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: StewardATH
 
@@ -982,6 +1055,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: OberartzATH
 
@@ -993,6 +1067,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: LogistatATH
 
@@ -1004,6 +1079,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: HandelsATH
 
@@ -1015,6 +1091,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ForscherATH
 
@@ -1026,6 +1103,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ChirurgeonATH
 
@@ -1037,6 +1115,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: VorarbeiterATH
 
@@ -1048,6 +1127,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: ArbeiterATH
 
@@ -1061,6 +1141,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: APRTKanoneerATH
 
@@ -1072,6 +1153,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: APRTSanitatATH
 
@@ -1083,6 +1165,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: APRTSoldatATH
 
@@ -1100,6 +1183,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: GliessianSheriff
 
@@ -1114,6 +1198,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: GliessianDeputy
 
@@ -1129,6 +1214,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: departmenthead
   - type: PresetIdCard
     job: GliessianDockmaster
 
@@ -1143,6 +1229,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: passenger
   - type: PresetIdCard
     job: GliessianDockhand
 
@@ -1157,6 +1244,7 @@
   - type: Sprite
     layers:
     - state: default
+    - state: passenger
   - type: PresetIdCard
     job: Spacer
 
