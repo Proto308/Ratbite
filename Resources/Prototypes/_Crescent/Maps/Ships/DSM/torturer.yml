@@ -12,7 +12,7 @@
 
 - type: gameMap
   id: Torturer
-  mapName: 'DSM Torturer'
+  mapName: 'БМС Тортунер'
   mapPath: /Maps/_Crescent/Shuttles/DSM/torturer.yml
   minPlayers: 0
   stations:
@@ -24,7 +24,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: fighter
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Torturer {1}'
+          mapNameTemplate: 'БМС Тортунер {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

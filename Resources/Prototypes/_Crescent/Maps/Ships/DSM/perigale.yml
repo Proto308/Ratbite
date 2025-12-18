@@ -12,7 +12,7 @@
 
 - type: gameMap
   id: Perigale
-  mapName: 'DSM Perigale'
+  mapName: 'БМС Перигей'
   mapPath: /Maps/_Crescent/Shuttles/DSM/perigale.yml
   minPlayers: 0
   stations:
@@ -24,7 +24,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: fighter
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Perigale {1}'
+          mapNameTemplate: 'БМС Перигей {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

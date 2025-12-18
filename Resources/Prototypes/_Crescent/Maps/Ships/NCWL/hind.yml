@@ -12,7 +12,7 @@
 
 - type: gameMap
   id: Hind
-  mapName: 'NCWL Hind'
+  mapName: 'ЛРНП Нанд'
   mapPath: /Maps/_Crescent/Shuttles/NCWL/hind.yml
   minPlayers: 0
   stations:
@@ -24,7 +24,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: frigate
         - type: StationNameSetup
-          mapNameTemplate: 'NCWL Hind {1}'
+          mapNameTemplate: 'ЛРНП Нанд {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

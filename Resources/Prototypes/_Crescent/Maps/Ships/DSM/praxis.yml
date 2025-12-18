@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Praxis
-  mapName: 'DSM Praxis'
+  mapName: 'БМС Праксис'
   mapPath: /Maps/_Crescent/Shuttles/DSM/praxis.yml
   minPlayers: 0
   stations:
@@ -21,7 +21,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: bigindustrial
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Praxis {1}'
+          mapNameTemplate: 'БМС Праксис {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

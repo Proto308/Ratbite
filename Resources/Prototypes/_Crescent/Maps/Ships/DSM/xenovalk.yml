@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Xenovalk
-  mapName: 'DSM Xenovalk'
+  mapName: 'БМС Ксеновальк'
   mapPath: /Maps/_Crescent/Shuttles/DSM/xenovalk.yml
   minPlayers: 0
   stations:
@@ -21,7 +21,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: industrial
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Xenovalk {1}'
+          mapNameTemplate: 'БМС Ксеновальк {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

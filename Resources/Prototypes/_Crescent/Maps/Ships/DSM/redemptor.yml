@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Redemptor
-  mapName: 'DSM Redemptor'
+  mapName: 'БМС Редемптор'
   mapPath: /Maps/_Crescent/Shuttles/DSM/redemptor.yml
   minPlayers: 0
   stations:
@@ -21,7 +21,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: fighter
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Redemptor {1}'
+          mapNameTemplate: 'БМС Редемптор {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

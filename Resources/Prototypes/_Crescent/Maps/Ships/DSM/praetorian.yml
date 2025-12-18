@@ -12,7 +12,7 @@
 
 - type: gameMap
   id: Praetorian
-  mapName: 'DSM Praetorian'
+  mapName: 'БМС Претор'
   mapPath: /Maps/_Crescent/Shuttles/DSM/praetorian.yml
   minPlayers: 0
   stations:
@@ -24,7 +24,7 @@
             sprite: _Crescent/ShipIcons/ifficons.rsi
             state: frigate
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Praetorian {1}'
+          mapNameTemplate: 'БМС Претор {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'

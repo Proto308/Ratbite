@@ -9,7 +9,7 @@
 
 - type: gameMap
   id: Duchess
-  mapName: 'DSM Duchess'
+  mapName: 'БМС Геркулес'
   mapPath: /Maps/_Crescent/Shuttles/DSM/duchess.yml
   minPlayers: 0
   stations:
@@ -17,7 +17,7 @@
       stationProto: StandardCrescentVessel
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'DSM Duchess {1}'
+          mapNameTemplate: 'БМС Геркулес {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
