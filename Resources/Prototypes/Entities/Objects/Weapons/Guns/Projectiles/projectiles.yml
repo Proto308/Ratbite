@@ -786,6 +786,18 @@
   - type: ProjectileIFF
     visualType: SquareReticle
     color: Red
+  - type: Fixtures
+    fixtures:
+      projectile:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.15,-0.45,0.15,0.15"
+        layer:
+        - BulletImpassable
+        mask:
+        - Impassable
+        - BulletImpassable
+        hard: true
   - type: Damageable
     damageContainer: StructuralInorganic
     damageModifierSet: StructuralMetallic
