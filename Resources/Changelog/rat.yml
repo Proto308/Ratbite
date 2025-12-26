@@ -22,3 +22,10 @@ Entries:
   id: 3
   time: '2025-12-25T16:26:32Z'
   url: null
+- author: Odleer
+  changes:
+    - message: 'Add: Локаль'
+      type: Tweak
+  id: 4
+  time: '2025-12-26T10:08:00Z'
+  url: null
